@@ -16,10 +16,6 @@ import com.example.rvjaz.Sparker.R;
 
 import java.io.File;
 
-/**
- * Created by Justice on 04/02/2017.
- */
-
 public class UILConfig {
 
     public static ImageLoaderConfiguration config(Context context)

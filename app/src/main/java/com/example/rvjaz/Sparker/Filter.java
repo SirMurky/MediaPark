@@ -37,7 +37,7 @@ public class Filter extends Fragment implements AsyncResponse, AdapterView.OnIte
 
 
     public Filter() {
-        // Required empty public constructor
+        
     }
 
 
